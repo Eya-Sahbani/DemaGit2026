@@ -1,0 +1,6 @@
+chat 
+lion
+chien 
+cheval
+poulet
+lapin
